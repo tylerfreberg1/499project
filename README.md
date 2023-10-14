@@ -7,10 +7,16 @@ The idea is to take a Japanese word as input and give information relating to th
 In addition to the dictionary, I want to also implement an option to make and practice flashcards for desired words.
 
 Week 1: Learn how to efficiently use a web scraper/get information from an API
+
 Week 2: Implement a basic use of either method to get test information from Japanese to English
+
 Week 3: Finalize what information should be pulled when searching: definition, sentences, etc.
+
 Week 4: Implement English to Japanese
+
 Week 5: Implement basic flashcard system
+
 Week 6: Finalize UI: formatting, program options for users, etc.
+
 Week 7: Clean up, testing
 
