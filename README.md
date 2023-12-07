@@ -20,7 +20,7 @@ The program is comprised of a few main functions:
 - **Word Searching:** Users can either input a specified word or press **Enter** for a random word.
   - The word search function gives the user the word, hiragana and romaji readings, a definition, and sentences
     for the top result. The user can view more pages containing similar words' readings and definitions.
-  - The random word option pulls a random english word from Github user deekayen's [list of 1000 most common English words.](https://gist.githubusercontent.com/deekayen/4148741/raw/98d35708fa344717d8eee15d11987de6c8e26d7d/1-1000.txt)
+  - The random word option pulls a random English word from Github user deekayen's [list of 1000 most common English words.](https://gist.githubusercontent.com/deekayen/4148741/raw/98d35708fa344717d8eee15d11987de6c8e26d7d/1-1000.txt)
   - When entering a specified word, the user has the option to convert any kanji characters to hiragana. The benefit of this is
     that it can supply more results, but it is usually not recommended, as due to kanji having many different readings, the
     converted word may contain an incorrect reading. The user is warned about this when asked if they want to convert.
