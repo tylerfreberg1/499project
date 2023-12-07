@@ -1,7 +1,0 @@
-The following external libraries are required for nihonPy to function correctly.
-
-urllib.request
-BeautifulSoup
-pykakasi
-pynput
-rich
